@@ -21,3 +21,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Node.js](https://img.shie)
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true)
+<br />
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark&hide_border=true)
+<br />
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
