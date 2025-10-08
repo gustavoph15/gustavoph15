@@ -1,71 +1,71 @@
 
-<h1 align="center">Olá! 👋 Eu sou [Seu Nome]</h1>
+<h1 align="center">Olá 👋, eu sou [Seu Nome ou Apelido]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Desenvolvedor+Full-Stack;Organizado+e+detalhista;Compartilhando+conhecimento+no+GitHub" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💡 Sobre mim
+## ✨ Sobre mim
 
-- 💼 Desenvolvedor(a) com foco em **[Frontend / Backend / Fullstack / Mobile]**
-- 🌱 Atualmente estudando: **[Tecnologias ou tópicos atuais]**
-- 💬 Gosto de conversar sobre: **JavaScript, Python, DevOps, UI/UX, etc.**
-- ⚡ Curiosidade: **[Fato divertido ou incomum sobre você]**
-
----
-
-## 🛠️ Tecnologias que uso
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- 🔭 Atualmente trabalhando em: **[Seu projeto ou stack atual]**
+- 🌱 Estudando: **[Frameworks, linguagens, etc.]**
+- 💼 Áreas de interesse: **Backend, Frontend, DevOps, IA, etc.**
+- 🎯 Objetivo atual: **[Ex: Contribuir em projetos open source]**
 
 ---
 
-## 📁 Índice de Repositórios
+## 💾 Índice de Arquivos
 
-| Projeto | Descrição | Tecnologias | Link |
-|--------|------------|-------------|------|
-| **Portfólio Pessoal** | Site com meus projetos, blog e contatos | HTML, CSS, JavaScript | [Ver Repositório](https://github.com/SEU_USUARIO/portfolio) |
-| **API de Produtos** | API REST para gerenciamento de produtos | Node.js, Express, MongoDB | [Ver Repositório](https://github.com/SEU_USUARIO/api-produtos) |
-| **ToDo App** | Aplicativo de tarefas com autenticação | React, Firebase | [Ver Repositório](https://github.com/SEU_USUARIO/todo-app) |
-| **Jogo da Velha** | Um simples jogo da velha web | HTML, CSS, JavaScript | [Ver Repositório](https://github.com/SEU_USUARIO/jogo-da-velha) |
+> Abaixo estão alguns diretórios e arquivos úteis que você pode explorar nos meus repositórios:
 
-> 📝 *Adicione ou remova projetos conforme necessário. Use nomes reais dos seus repositórios públicos.*
+| Projeto / Pasta | Descrição | Link |
+|-----------------|-----------|------|
+| `/api/rotas.js` | Arquivo com as rotas da API RESTful | [🔗 Ver](https://github.com/SEU_USUARIO/nome-do-repo/blob/main/api/rotas.js) |
+| `/docs/setup.md` | Guia de instalação e configuração | [🔗 Ver](https://github.com/SEU_USUARIO/nome-do-repo/blob/main/docs/setup.md) |
+| `/src/components/Button.jsx` | Componente de botão reutilizável em React | [🔗 Ver](https://github.com/SEU_USUARIO/nome-do-repo/blob/main/src/components/Button.jsx) |
+| `/scripts/deploy.sh` | Script de deploy automatizado | [🔗 Ver](https://github.com/SEU_USUARIO/nome-do-repo/blob/main/scripts/deploy.sh) |
+
+> 🧩 *Você pode adaptar esse índice para diferentes repositórios, projetos e tipos de arquivos que você quer destacar.*
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true)
-<br />
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark&hide_border=true)
-<br />
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato & Redes
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_USUARIO/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://seusite.com">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -74,4 +74,4 @@
 
 ---
 
-> Este README é atualizado manualmente. Acompanhe meus projetos e novidades por aqui no GitHub 🚀
+> 📝 Este é o README especial do meu perfil no GitHub. Explore meus repositórios e arquivos — ideias são sempre bem-vindas!
